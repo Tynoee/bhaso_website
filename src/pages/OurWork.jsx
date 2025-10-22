@@ -6,7 +6,7 @@ import { Layout1_1 } from "../components/Layout1_1";
 import { Cta13 } from "../components/Cta13";
 import { Cta40 } from "../components/Cta40";
 import { Approach } from "../components/Approach";
-import { Cta89 } from "../components/cta89";
+import { Cta89 } from "../components/Cta89";
 
 export default function OurWork() {
   return (
